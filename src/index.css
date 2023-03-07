@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap");
+
+html,
+body,
+#root,
+app {
+    height: 100%;
+    width: 100%;
+    font-family: "Inter", sans-serif;
+  }
+  
+.logo{
+  padding-left: -5em;
+  margin-left: -3.9em;
+  margin-top: -5em;
+  margin-bottom: -5em;
+}
+
+.Mercedes{
+  padding-left: 5em;
+  margin-left: 25em;
+  margin-top: 7em;
+  margin-bottom: 5em;
+  width: 900px;
+  height: auto;
+}
+
+.autologHeader{
+ color: black;
+ margin-left: 17em;
+font-size: 35px;
+}
+
+.box1{
+  margin-top: 2em;
+  height: 2.5cm;
+}
+
+.CardCarIcon{
+  margin-left: 17em;
+margin-bottom: -1em;
+background-color: white;
+}
+
+#plusIcon{
+  margin-top: -2em;
+  padding-top: -3em;
+}
+
+.FahrzeugLabel{
+  margin-top: 2em;
+}
